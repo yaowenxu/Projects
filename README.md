@@ -1,2 +1,2 @@
 # Small-Projects
-Collection of small projects
+Collection of my small projects
