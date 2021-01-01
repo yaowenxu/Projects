@@ -1,2 +1,2 @@
 # Small-Projects
-[Collection of my small projects](https://yaowenxu.github.io/small-projects/)
+[Collection of my Small Projects](https://yaowenxu.github.io/Projects/)
