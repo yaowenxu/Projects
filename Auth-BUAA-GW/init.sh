@@ -7,3 +7,7 @@ sudo apt install -y cron
 systemctl status cron.service
 systemctl restart cron.service
 npm install
+
+# 18.04 解决错误：npm : Depends: node-gyp (>= 0.10.9)
+# sudo apt-get install nodejs-dev node-gyp libssl1.0-dev
+# sudo apt-get install npm 
