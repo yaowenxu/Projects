@@ -1,5 +1,5 @@
 # 每天的 9点，15点，21点，3点，进行登录网关；
-0 9 * * * root start.sh
-0 15 * * * root start.sh
-0 21 * * * root start.sh
-0 3 * * * root start.sh
+0 9 * * * root /root/Auth-BUAA-GW/start.sh
+0 15 * * * root /root/Auth-BUAA-GW/start.sh
+0 21 * * * root /root/Auth-BUAA-GW/start.sh
+0 3 * * * root /root/Auth-BUAA-GW/start.sh

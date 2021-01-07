@@ -8,4 +8,4 @@ IP=WWWW # 输入希望申请的地址
 echo '进行登录！'
 $NODE index.js $USER $PASS $IP
 echo '登录结束，请Ping公网地址，检查是否连通；如果登录失败，请提issue!'
-ping -c 4 www.baidu.com
+# ping -c 4 www.baidu.com
