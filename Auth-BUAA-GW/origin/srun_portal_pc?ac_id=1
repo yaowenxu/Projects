@@ -1,0 +1,111 @@
+<!--A Design by W3layouts Author: W3layout Author URL: http://w3layouts.com License: Creative Commons Attribution 3.0 Unported License URL: http://creativecommons.org/licenses/by/3.0/-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>北京航空航天大学</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="renderer" content="webkit|ie-comp|ie-stand">
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="网络准入认证系统" />
+		<link type="images/x-icon" rel="shortcut icon" href="/static/images/basic/favicon.ico">
+		<link href="/static/bower/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+		<link href="/static/bower/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+		<link href="/static/css/basic.css?v=2.00.20190701" rel='stylesheet' type='text/css' />
+		<script src="/static/js/device.min.js"></script>
+		<script>
+            if (device.mobile()) {
+                locationURI("/srun_portal_phone")
+			}
+            function locationURI(uri) { return location.href = uri + location.search; }
+		</script>
+	</head>
+	<body>
+		<div class="login-page navbar navbar-static-top nav-portal">
+			<div class="container">
+		    	<div class="navbar-header">
+		      		<img src="/static/images/basic/logo.png" class="img-responsive logo" alt="logo">
+		    	</div>
+		  	</div>
+		</div>
+		<div class="login-page container login">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="col-md-6 col-sm-6 col-xs-12 login-ie">
+						
+							<h2 class="form-heading">账号认证</h2>
+						
+
+						<form class="form-horizontal login-form" id="login-form" action="#">
+							<input type="hidden" name="ac_id" id="ac_id" value="1">
+							<input type="hidden" name="user_ip" id="user_ip" value="10.134.150.111">
+							<input type="hidden" name="nas_ip" id="nas_ip" value="">
+							<input type="hidden" name="user_mac" id="user_mac" value="">
+							<input type="hidden" name="url" id="url" value="">
+
+							<div class="btn-block">
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-user fa-2x"></i>
+									</div>
+									<input type="text" name="username" id="username" class="form-control" placeholder="请输入用户名">
+									
+								</div>
+							</div>
+							<div class="btn-block">
+								<div class="input-group">
+									<div class="input-group-addon">
+										<i class="fa fa-lock fa-2x"></i>
+									</div>
+									<input type="password" name="password" id="password" class="form-control" placeholder="请输入密码">
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-md-6 col-sm-6 col-xs-12">
+									<button class="btn btn-block btn-primary" id="login" type="button">登录</button>
+								</div>
+								
+									<div class="col-md-6 col-sm-6 col-xs-12">
+										<a href="javascript:void(0)" id="self-service" class="btn btn-block btn-success line-height-a">自助服务</a>
+									</div>
+								
+							</div>
+						</form>
+						<div id="out-qrcode" class="hidden" style="margin-top: 50px;"></div>
+
+
+						
+                        <div class="row">
+							
+							
+							
+							
+							
+                        </div>
+
+                        
+					</div>
+                    <div class="col-md-6 col-sm-6 notice">
+                        <div class="col-md-11 notice-ie">
+                            <h2 class="notice-heading">通知</h2>
+                            <h3 id="notice-title"></h3>
+                            <p id="notice-content"></p>
+                        </div>
+                        <div class="pull-right middle-right">
+                            <img src="/static/images/basic/middle.png" class="middle">
+                        </div>
+                    </div>
+				</div>
+			</div>
+		</div>
+		<script src="/static/bower/all/1.0.0/all.min.js?v=20180302?v=2.00.20190701"></script>
+		<script type="text/javascript">
+			var isIPV6 =  false ;
+			var portal = {"AuthIP":"","AuthIP6":"","ServiceIP":"zfw.buaa.edu.cn","DoubleStackPC":false,"DoubleStackMobile":false,"AuthMode":false,"CloseLogout":false,"MacAuth":false,"RedirectUrl":true,"OtherPCStack":"IPV4","OtherMobileStack":"IPV4","MsgApi":"new","PublicSuccessPages":true};
+			var lang = "zh-CN" || "zh-CN";
+		</script>
+		<script src="/static/js/srun.portal.lang.js?v=2.00.20190701"></script>
+		<script src="/static/js/jquery.srun.portal.js?v=2.00.20190701"></script>
+		<script src="/static/js/main.js?v=2.00.20190701"></script>
+	</body>
+</html>
