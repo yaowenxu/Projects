@@ -1,0 +1,49 @@
+Kaillera server v0.86 (c) 2001 Christophe Thibault
+-------------
+http://www.kaillera.com/
+
+don't forget to edit the kaillerasrv.conf file
+
+you can also access your server by pointing your webbrowser to
+"http://myserverip:myserverport/"
+
+
+what's new:
+-----------
+
+0.86: added motd
+      added browser access! (not much yet)
+0.85: added options for restricting access on ping times and connection settings
+0.84: fixed pb on win32 where max clients couldn't exceed 32 (doh)
+      fixed crash pb on linux/freebsd
+      added URL configuration option so you can have your site 
+      linked on kaillera.com
+      added chat messages flood protection!
+      added waiting games reporting
+0.83: added message in chat window to notify when player drop out of a game.
+0.82: fixed the very bad hang/crash bug introduced in 0.8/0.81
+0.81: fixed buggy keystroke handling. now every keys are sent to the server.
+      magically reduced ping time :)
+0.8:  fixed "AF_INET bug" in linux log messages
+      messages are no more sent 60 times a second. this will
+      reduce bandwith and cpu usage A LOT.
+      some optims here and there
+0.7:  optimized network code a bit
+      takes A LOT less CPU resources
+      added leet startup ascii. thanks to sensAh :)
+0.6:  netsync now has a 2 minutes timeout instead of 1
+      (for slow machines)
+      some minor fixes
+0.5:  fixed ghost players/games
+      added games played report in the touch process
+0.41: message length bugfix
+0.4:  added IP parameter in config file
+      fixed crash when >~15 people on server
+      takes a little bit less CPU resources
+0.3:  initial netsync support
+      bugfixes & improvements
+0.23: crash bugfixes
+0.2:  added "Location" and "Public" settings
+      added keep-alive support
+      LOT of bugfixes!
+0.1:  initial release
