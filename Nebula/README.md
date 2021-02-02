@@ -1,7 +1,7 @@
 ## Nebula 模拟器配置
 - 包含 双截龙 rom
-- 包含 PGM NEO-GEO NEOCD系统 rom
-- 玩家1 xbox手柄 映射 
+- 包含 PGM NEO-GEO NEOCD系统 Universe-BIOS rom
+- 玩家1 xbox手柄 映射
 - 玩家1 keyboard 映射
 - 基本配置：*.DAT文件 .ini文件
 
