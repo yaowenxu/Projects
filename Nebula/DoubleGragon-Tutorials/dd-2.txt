@@ -1,0 +1,1512 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                               Double Dragon 
+              FAQ By: Goh_Billy (billy_kane_32@hotmail.com)
+                              Version #: 2.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+Sections
+--------
+      1. Legend
+      2. System
+         2.1  Basics
+         2.2  Charge Meter
+         2.3  Dizzies
+      3. Characters
+         3.1  Marian
+         3.2  Dulton
+         3.3  Eddie
+         3.4  Rebecca 
+         3.5  Billy Lee
+         3.6  Jimmy Lee
+         3.7  Burnov
+         3.8  Amon
+         3.9  Abobo
+         3.10 Cheng-Fu
+    -----------------------
+         3.11 Duke
+         3.12 Kugo Shuko 
+      4. Conclusion
+         4.1  What's Missing/Needed
+         4.2  Credits
+
+
+===============================================================================
+1. Legend
+===============================================================================
+
+
+
+  ub  u  uf        f - Forward        LA - Light Attack    + - And 
+    \ | /          b - Back           MA - Medium Attack   / - Or  
+  b--   --f        u - Up             HA - Heavy Attack    , - Then  
+    / | \          d - Down           SA - Super Attack       
+  db  d  df                           A  - Any Button                       
+
+ qcf - quarter circle forward (d, df, f)
+ qcb - quarter circle back (d, db, b)
+ hcf - half circle forward (b, db, d, df, f)
+ hcb - half circle back (f, df, d, db, b)
+
+
+===============================================================================
+2. System
+===============================================================================
+
+++++++++++++++
+| 2.1 Basics |
+++++++++++++++
+
+Throw                     f/b + MA/HA/SA close        check character movelist
+                                                        for exact motion and
+                                                        properties
+
+Block High                b
+Block Low                 db                          does not block overheads
+Air Block                 b in air                    can jump again after air
+                                                        blocking an attack
+
+Double Jump               ub/u/uf after any first
+                            jump
+Forward Hop               f, f                        
+Backward Hop              b, b                       
+                      
+Negative Edge             allows you to perform       an example would be
+                            maneuvers by holding        performing a qcf + P
+                            the attack button           maneuver by instead
+                            down, performing            holding P, qcf,
+                            the motion, then            releasing P; this
+                            releasing the attack        works for specials
+                            button                      and supers
+
+++++++++++++++++++++
+| 2.2 Charge Meter |
+++++++++++++++++++++
+
+  In this game the "Super" meter, or in this case, the "Charge Meter" is 
+integrated into your lifebar.  Your lifebar is indicated by the color
+yellow.  By landing hits on your opponent (including blocked attacks)
+you will see your lifebar begin to fill with blue.  When the blue completely
+fills your lifebar you will see the word "Charge" and you will have access to
+your Charge Supers.  The lower your lifebar is, the faster you can fill your
+meter to have access to your Charge Supers.
+
+Charge Super              refer to character's        when lifebar is 
+                            movelist                    completely filled with
+                                                        blue and is flashing
+
+
++++++++++++++++
+| 2.3 Dizzies |
++++++++++++++++
+
+  In this game you are able to dizzy your opponent in a variety of ways.  A
+dizzy can occur from hitting your opponent many times and can even occur
+after a throw.  There a two types of dizzies in this game.  One is a standing
+dizzy state and the other is a floored dizzy state.  The type of dizzy is
+determined by the attack used to cause your opponent to become dizzy.  If the
+move does not knock down normally, your opponent will be in a standing dizzy
+state.  If the move does knock down normally then your opponent will be in a
+floored dizzy state.  Note that a floored dizzy state is needed to use your 
+character's pursue attack.  
+
+Dizzy Recovery            shake joystick and tap A
+                            rapidly when dizzied
+
+Pursue Attack             d + A when opponent is      
+                            on the ground dizzy
+
+
+
+===============================================================================
+3. Characters
+===============================================================================
+
+*******************************************************************************
+* 3.1 Marian                                                                  *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Salmon Pink top and Blue shorts
+MA       - Purple top and Salmon Pink shorts
+HA       - Baby Blue top and Cornflower Blue shorts
+SA       - Gunmetal Gray top and Ash Gray shorts
+
+
+
+Throws
+------
+Bulldog                   f/b + MA/HA close           MA=medium distance, 
+                                                        HA=long distance; HA
+                                                        version deals slightly
+                                                        more damage; opponent 
+                                                        ends up behind Marian
+Head Crush And Knee       f/b + SA close              opponent ends up in front
+                                                        of Marian
+Air Bulldog               f/b + MA/HA close in air    MA=medium distance, 
+                                                        HA=long distance; HA
+                                                        version deals slightly
+                                                        more damage; opponent 
+                                                        ends up behind Marian
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump  
+Forward Hop               f, f 
+  Butt Bump               LA
+  Diagonal Punch          MA
+  Diagonal Jump Kick      HA
+  Front Flip              SA                          overhead         
+Backward Hop              b, b                        
+  Butt Bump               LA
+  Diagonal Punch          MA
+  Diagonal Jump Kick      HA
+  Front Flip              SA                          overhead 
+Low To High Kick          SA close                    2 hits
+Palm To Backhand          SA far                      2 hits  
+Front Flip                ub/uf, SA                   2 hits; overhead
+Back Flip                 u, SA                       2 hits; overhead 
+
+
+Command Moves
+-------------
+Low Tap Kick              d + LA                      must be blocked low
+Trip Kick                 d + HA                      must be blocked low
+Butt Drop                 d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Moon Drive                Charge b for 1.25 seconds,  LA=short and low damage,
+                            f + A                        MA=medium and medium
+                                                         damage, HA=far and
+                                                         high damage, SA=very
+                                                         far and very high 
+                                                         damage
+Ikaros Crash              hcb + A close               LA=low drop with low
+                                                        damage, MA=medium
+                                                        drop with medium
+                                                        damage, HA=high drop
+                                                        with high damage, 
+                                                        SA=very high drop with
+                                                        very high damage;
+                                                        unblockable
+Accele Breaker            Charge d for 1.25 seconds,  LA=short and low damage,
+                            u + A                       MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage; drill
+                                                        kick portion is an 
+                                                        overhead
+
+
+Charge Supers
+-------------
+Full Moon Drive           Charge b for 1.25 seconds,  invulnerable during the
+                            f + 2 attack buttons        super
+Accele Destroyer          Charge d for 1.25 seconds,  invulnerable during the
+                            u + 2 attack buttons        super
+
+
+
+
+*******************************************************************************
+* 3.2 Dulton                                                                  *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Blue costume w/ Red trim
+MA       - Gunmetal Gray costume w/ Blue trim
+HA       - Purple costume w/ Orange trim
+SA       - Green costume w/ Blue trim
+
+
+
+Throws
+------
+Driving Punch To Forearm  f/b + MA close              opponent ends up in front
+                                                        Dulton
+Driving Punch To Uppercut f/b + HA close              opponent ends up in front
+                                                        Dulton
+Mounted Pounding          f/b + SA close              opponent ends up in front
+                                                        Dulton
+Air Mounted Pounding      f/b + SA close in air       opponent ends up in front
+                                                        Dulton
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Shoulder Charge         LA
+  Axe Handle              MA                          overhead
+  Drop Kick               HA
+  Low Stomp               SA                          overhead         
+Backward Hop              b, b                        
+  Shoulder Charge         LA
+  Axe Handle              MA                          overhead
+  Drop Kick               HA
+  Low Stomp               SA                          overhead 
+Back Forearm              MA close
+  Blind Kick              MA
+Sliding Uppercut          MA far
+  Digging Punch           MA
+Flying Sobat              HA                          low dodge
+
+
+Command Moves
+-------------            
+Straight Punch            f + LA close    
+Low Tap Kick              d + MA                      must be blocked low  
+Hop Punch                 f + HA                      overhead
+Head Charge               d + HA
+Elbow Drop                d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Machine Gun Punch         qcf + A                     LA=short charge with 1
+                                                        projectile, MA=medium
+                                                        charge with 2
+                                                        projectiles, HA=long
+                                                        charge with 3
+                                                        projectiles, SA=very
+                                                        long charge with 4
+                                                        projectiles; a single
+                                                        projectile will collide
+                                                        with another single
+                                                        projectile with both
+                                                        being "destroyed" in 
+                                                        the process; note that
+                                                        since Dalton's MA/HA/SA
+                                                        versions of the move
+                                                        shoot multiple 
+                                                        projectiles he can have
+                                                        some pass through after
+                                                        one of the projectiles
+                                                        is negated
+Elbow Neckbreaker         Charge b for 1.24 seconds,  LA=short dash forward and
+                            f + A                       low damage, MA=medium 
+                                                        dash forward and medium
+                                                        damage, HA=long dash 
+                                                        forward and high 
+                                                        damage, SA=very long 
+                                                        dash forward and very
+                                                        high damage; dash in 
+                                                        must connect (not 
+                                                        blocked) to perform the
+                                                        entire maneuver
+Dynamite Combo            tap A rapidly               LA=2 hits, MA=3 hits, 
+                                                        HA=4 hits, SA=5 hits
+
+
+Charge Supers
+-------------
+Cannon Punch              qcf + 2 attack buttons      fireball absorbs 
+                                                        projectiles
+Dynamite Finisher         tap 2 attack buttons        invulnerable during the
+                            rapidly                     super
+
+
+
+
+*******************************************************************************
+* 3.3 Eddie                                                                   *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Green costume w/ Red armbands
+MA       - Orange costume w/ Blue armbands
+HA       - Dark Gray costume w/ Yellow armbands
+SA       - Blue costume w/ Orange armbands
+
+
+
+Throws
+------
+Knee Lift                 f/b + MA close              opponent ends up in front
+                                                        of Eddie
+Crash Elbows To Uppercut  f/b + HA close              opponent ends up in front
+                                                        of Eddie
+Crash Elbows To Jaw Elbow f/b + SA close              opponent ends up in front
+                                                        of Eddie
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Crunch Elbow            LA
+  Diagonal Punch          MA                          overhead
+  Power Jump Kick         HA
+  Flying Sobat            SA                                  
+Backward Hop              b, b                        
+  Crunch Elbow            LA
+  Diagonal Punch          MA                          overhead
+  Power Jump Kick         HA
+  Flying Sobat            SA                          overhead 
+Turn Elbow                SA close                    2 hits
+Back Kick                 SA far  
+  Mid Kick                SA
+
+
+Command Moves
+-------------
+Low Crouch Kick           d + MA                      must be blocked low
+Digging Elbow             d + HA                      2 hits
+Scissor Sweep             d + SA                      must be blocked low
+Double Knee Drop          d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Burning Knee              f, d, df + A                LA=short and low damage,
+                                                        MA=medium damage,
+                                                        HA=far and high damage,
+                                                        SA=very far and very 
+                                                        high damage
+Low Leg Slash             Charge b for 1.25 seconds,  LA=low damage, MA=medium
+                            f + A                       damage, HA=high damage,
+                                                        SA=very high damage
+High Leg Slash            Charge d for 1.25 seconds,  LA=low damage, MA=medium
+                            u + A                       damage, HA=high damage,
+                                                        SA=very high damage
+
+
+Charge Supers
+-------------
+Dragon Finisher           f, d, df + 2 attack         invulnerable during the
+                            buttons                     super
+Volcano Upper             Charge d for 1.25 seconds,  fire pillar will absorb
+                            u + 2 attack buttons        projectiles (including
+                                                        Dulton's Super Dulton
+                                                        Blaster)
+
+
+
+
+*******************************************************************************
+* 3.4 Rebecca                                                                 *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Light Blue top and Red pants
+MA       - Gray top and Royal Blue pants
+HA       - Gold top and Medium Gray pants
+SA       - Gray top and Light Blue Gray pants
+
+
+
+Throws
+------
+Layback Toss              f/b + MA/HA close           MA=medium distance, 
+                                                        HA=long distance; HA
+                                                        version deals slightly
+                                                        more damage; opponent 
+                                                        ends up behind Rebecca
+Trip And Elbow            f/b + SA close              opponent ends up in front
+                                                        of Rebecca
+Air Layback Toss          f/b + MA/HA close in air    MA=medium distance, 
+                                                        HA=long distance; HA
+                                                        version deals slightly
+                                                        more damage; opponent 
+                                                        ends up behind Rebecca
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Weak Jump Kick          LA
+  Downward Tonfa Strike   MA                          overhead
+  Heavy Jump Kick         HA
+  Heel Drop               SA                          overhead         
+Backward Hop              b, b                        
+  Weak Jump Kick          LA
+  Downward Tonfa Strike   MA                          overhead
+  Heavy Jump Kick         HA
+  Heel Drop               SA                          overhead
+Tonfa Punch               MA 
+  Tonfa Stab              MA  
+Roundhouse And Reverse    HA far                      2 hits
+Top Spin Swat             SA close                    2 hits
+Spiral Hop Punch          SA far                      3 hits
+Heel Drop                 SA in air                   2 hits; overhead
+ 
+    
+Command Moves
+-------------
+Crouching Tonfa Spin      d + LA                      2 hits
+Tonfa Trip                d + SA                      must be blocked low
+Reverse Elbow Splash      d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Ko Bi Ken                 qcf + A                     LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; will collide
+                                                        with other projectiles
+                                                        as both will be 
+                                                        "destroyed" in the 
+                                                        process          
+Kuchu Ko Bi Ken           b, db, d + A in air         LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; will collide
+                                                        with other projectiles
+                                                        as both will be 
+                                                        "destroyed" in the 
+                                                        process  
+Hi Sho Zan                f, d, df + A                LA=low jump with low 
+                                                        damage, MA=medium jump
+                                                        with medium damage,
+                                                        HA=high jump with high
+                                                        damage, SA=very high
+                                                        jump with very high 
+                                                        damage
+
+
+Charge Supers
+-------------
+Rekko Zan                 qcf + 2 attack buttons      spiral shot will absorb
+                                                        projectiles (including
+                                                        Dulton's Super Dulton
+                                                        Blaster)
+Kuchu Rekko Zan           b, db, d + 2 attack         spiral shot will absorb
+                            buttons in air              projectiles (including
+                                                        Dulton's Super Dulton
+                                                        Blaster)
+Cho Hi Sho Zan            f, d, df + 2 attack         dash in must connect (not
+                            buttons                     blocked) to perform the
+                                                        entire maneuver
+
+
+
+
+*******************************************************************************
+* 3.5 Billy Lee                                                               *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Red top and Blue pants
+MA       - Orange top and Navy Blue pants
+HA       - Cardinal Red top and Blue Ocean pants
+SA       - Cardinal Red top and Gray pants
+
+
+
+Throws
+------
+Shoulder Toss             f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where 
+                                                        opponent is thrown
+Air Shoulder Toss         f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Dropping Heel           SA                          2 hits; overhead   
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Dropping Heel           SA                          2 hits; overhead 
+Low To High Kick          SA close                    2 hits  
+Dropping Heel             SA in air                   2 hits; overhead
+
+
+Command Moves
+-------------
+Low Crouch Kick           d + LA                      must be blocked low
+Sweep                     d + SA                      must be blocked low
+Mount Punch               d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+So Syu Ga                 qcf + A                     LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage
+Rekko Ha                  f, d, df + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage
+Ryu Bi Sen                qcb + A                     LA=short, MA=medium, 
+                                                        HA=far, SA=very far; 
+                                                        you get more kicks and
+                                                        thus more damage with
+                                                        each increased attack
+                                                        level               
+Air Ryu Bi Sen            qcb + A
+
+
+Charge Supers
+-------------
+Cho So Syu Ga             qcf + 2 attack buttons      dragon aura will absorb
+                                                        projectiles (including
+                                                        Dulton's Super Dulton
+                                                        Blaster)
+Dragon Transformation     LA+MA+HA+SA                 invulnerable during
+                                                        transformation; can
+                                                        hit opponent during
+                                                        transformation startup;
+                                                        refer to "while 
+                                                        transformed" section
+                                                        
+
+                    `````````````````````````````````````
+                             While Transformed 
+                    ````````````````````````````````````` 
+
+Throws
+------
+Shoulder Toss             f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+Air Shoulder Toss         f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Flying Back Kick        SA                          
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Flying Back Kick        SA      
+High Punch                LA far
+  Stomach Punch           LA
+Wild Punch                MA far
+  Second Punch            MA
+Low To High Kick          SA close                    2 hits  
+
+
+Command Moves
+-------------
+Low Crouch Kick           d + LA                      must be blocked low
+Sweep                     d + SA                      must be blocked low
+Mount Punch               d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Hi Ryu Ken                qcf + A                     LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; will collide
+                                                        with other projectiles
+                                                        as both will be 
+                                                        "destroyed" in the 
+                                                        process         
+Ryu Jin Ken               f, d, df + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage; 
+                                                        invulnerable at the
+                                                        beginning of the move
+Ryu Jin Kyaku             qcb + A                     LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage 
+Sho Ryu Ha                hcf + A                     LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; a single dragon
+                                                        will collide with 
+                                                        another single 
+                                                        projectile as both will 
+                                                        be "destroyed" in the 
+                                                        process; the second
+                                                        dragon projectile will
+                                                        pass through after the
+                                                        first dragon is negated
+                                                        (unless colliding with
+                                                        multiple projectiles or
+                                                        a projectile super) 
+
+
+Charge Supers
+-------------
+N/A
+
+
+
+
+*******************************************************************************
+* 3.6 Jimmy Lee                                                               *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Dark Gray top and Orange pants
+MA       - Steel Blue top and Amber pants
+HA       - Dark Gray top and Purple pants
+SA       - Blue top and Gray pants
+
+
+
+Throws
+------
+Shoulder Toss             f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+Air Shoulder Toss         f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Dropping Heel           SA                          2 hits; overhead   
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Dropping Heel           SA                          2 hits; overhead 
+Low To High Kick          SA close                    2 hits  
+Dropping Heel             SA in air                   2 hits; overhead
+
+
+Command Moves
+-------------
+Low Crouch Kick           d + LA                      must be blocked low
+Sweep                     d + SA                      must be blocked low
+Mount Punch               d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+So Syu Ga                 qcf + A                     LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage
+Rekko Ha                  f, d, df + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage
+Ryu Bi Sen                qcb + A                     LA=short, MA=medium, 
+                                                        HA=far, SA=very far; 
+                                                        unlike Billy, Jimmy's
+                                                        Ryu Bi Sen knocks down
+                                                        with 1 hit           
+Air Ryu Bi Sen            qcb + A                     LA=low damage, MA=medium
+                                                        damage, HA=high damage,
+                                                        SA=very high damage;
+                                                        unlike Billy, Jimmy's
+                                                        Ryu Bi Sen knocks down
+                                                        with 1 hit
+
+
+Charge Supers
+-------------
+Cho Rekko Ha              f, d, df + 2 attack         invulnerable during the
+                            buttons                     super             
+Dragon Transformation     LA+MA+HA+SA                 invulnerable during
+                                                        transformation; can
+                                                        hit opponent during
+                                                        transformation startup;
+                                                        refer to "while 
+                                                        transformed" section
+                                                        
+
+                    `````````````````````````````````````
+                             While Transformed 
+                    ````````````````````````````````````` 
+
+Throws
+------
+Shoulder Toss             f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+Air Shoulder Toss         f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=long distance,
+                                                        SA=very long distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; f and b
+                                                        determine where
+                                                        opponent is thrown
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Flying Back Kick        SA                          
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Flying Back Kick        SA      
+High Punch                LA far
+  Stomach Punch           LA
+Wild Punch                MA far
+  Second Punch            MA
+Low To High Kick          SA close                    2 hits  
+
+
+Command Moves
+-------------
+Low Crouch Kick           d + LA                      must be blocked low
+Sweep                     d + SA                      must be blocked low
+Mount Punch               d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Hi Ryu Ken                qcf + A                     LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; will collide
+                                                        with other projectiles
+                                                        as both will be 
+                                                        "destroyed" in the 
+                                                        process         
+Ryu Jin Ken               f, d, df + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage; 
+                                                        invulnerable at the
+                                                        beginning of the move
+Ryu Jin Kyaku             qcb + A                     LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage 
+Sho Ryu Ha                hcf + A                     LA=slow speed and very
+                                                        low damage, MA=medium
+                                                        speed and low damage,
+                                                        HA=fast speed and 
+                                                        medium damage, SA=very
+                                                        fast speed and high
+                                                        damage; a single dragon
+                                                        will collide with 
+                                                        another single 
+                                                        projectile as both will
+                                                        be "destroyed" in the 
+                                                        process; the second
+                                                        dragon projectile will
+                                                        pass through after the
+                                                        first dragon is negated
+                                                        (unless colliding with
+                                                        multiple projectiles or
+                                                        a projectile super) 
+
+
+Charge Supers
+-------------
+N/A
+
+
+
+
+*******************************************************************************
+* 3.7 Burnov                                                                  *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Red armor and Blue pants
+MA       - Citrine armor and Teal Blue pants
+HA       - Taupe Gray armor and Teal Blue pants
+SA       - Blue armor and Charcoal pants
+
+
+
+Throws
+------
+Powerbomb                 f/b + MA close              opponent ends up in front
+                                                        of Burnov 
+High Drop Suplex          f/b + HA close              opponent ends up behind
+                                                        Burnov 
+Jumping Powerbomb         f/b + SA close              opponent ends up in front
+                                                        of Burnov
+Air Jumping Powerbomb     f/b + SA close in air       opponent ends up in front
+                                                        of Burnov
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Cross Dive              LA
+  Body Splash             MA                          overhead
+  Dropkick                HA
+  Flipping Heel Drop      SA                          overhead         
+Backward Hop              b, b                        
+  Cross Dive              LA
+  Body Splash             MA                          overhead
+  Dropkick                HA
+  Flipping Heel Drop      SA                          overhead    
+Low Tap Kick              LA close                    must be blocked low
+Shoulder Bump             SA close
+  Flipping Heel Drop      SA                          overhead
+Flipping Heel Drop        SA far                      overhead
+
+
+Command Moves
+-------------
+Low Tap Kick              d + MA                      must be blocked low
+Rolling Heel Strike       d + HA                      2 hits with the second
+                                                        hit being the knock
+                                                        down
+Belly Splash              d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Burning Belch             qcf + A                      LA=short and very low 
+                                                        damage, MA=medium and 
+                                                        low damage, HA=far and
+                                                        medium damage, SA=far
+                                                        and high damage; nitro
+                                                        spit will collide with
+                                                        other projectiles as 
+                                                        both will be 
+                                                        "destroyed" in the 
+                                                        process; nitro blast 
+                                                        will absorb projectiles
+Bone Crusher              hcb + A close               LA=suplex with low 
+                                                        damage, MA=atomic drop
+                                                        to suplex with medium
+                                                        damage, HA=atomic drop
+                                                        to suplex to splash 
+                                                        with high damage, 
+                                                        SA=atomic drop to
+                                                        suplex to big splash
+                                                        with very high damage;
+                                                        unblockable
+Running Tackle            Charge b for 1.25 seconds,  LA=slow run with low
+                            f + A                       damage, MA=medium run
+                                                        with medium damage, 
+                                                        HA=fast with high 
+                                                        damage, SA=very fast
+                                                        with very high damage
+
+
+Charge Supers
+-------------
+Bomb Belch                qcf + 2 attack buttons      if nitro spit hits a
+                                                        projectile it will be
+                                                        split into smaller
+                                                        nitro spits that will
+                                                        still hit the ground
+                                                        and cause a series of
+                                                        nitro blasts; nitro 
+                                                        blasts absorb 
+                                                        projectiles
+Dynamite Tackle           Charge b for 1.25 seconds,  invulnerable during the
+                            b + 2 attack buttons        super
+
+
+
+
+*******************************************************************************
+* 3.8 Amon                                                                    *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Off White costume
+MA       - Blue costume
+HA       - Dark Gray costume
+SA       - Red costume
+
+
+
+Throws
+------
+Vacuum Throw              f/b + MA close              opponent ends up behind
+                                                        Amon
+Dragging Strike           f/b + HA close              opponent ends up behind
+                                                        Amon
+Leaping Slam              f/b + SA close              opponent ends up in front
+                                                        of Amon
+Air Dragging Strike       f/b + HA close in air       opponent ends up behind
+                                                        Amon
+Air Leaping Slam          f/b + SA close in air       opponent ends up in front
+                                                        of Amon
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Double Kick             SA                          2 hits  
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Flying Jump Kick        HA
+  Double Kick             SA                          
+Kick Backflip             HA close
+Elbow And Axe Kick        SA close                    2 hits; second hit is an
+                                                        overhead
+Axe Wheel Kick            SA far                      overhead
+Double Kick               SA in air                   2 hits; overhead
+
+
+Command Moves
+-------------
+Low Tap Kick              d + MA                      must be blocked low
+Super Slide Kick          d + SA                      must be blocked low
+Double Stomp              d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Shi Ho Ken                Charge b for 1.25 seconds,  LA=very slow and low
+                            f + A                       damage, MA=slow and 
+                                                        medium damage, 
+                                                        HA=medium and high 
+                                                        damage, SA=fast and 
+                                                        very high damage; elbow
+                                                        attack will activate
+                                                        when close to the 
+                                                        opponent
+  Teleport Elbow          A before Shi Ho Ken elbow   LA=low damage, MA=medium
+                            come out                    damage, HA=high damage,
+                                                        SA=very high damage
+Rekka Bakuen Heki         Charge d for 1.25 seconds,  LA=1 blast, MA=2 blasts,
+                            u + A                       HA=3 blasts, SA=4 
+                                                        blasts; blast will 
+                                                        absorb projectiles (can
+                                                        even avoid projectile
+                                                        supers like the Dulton
+                                                        Blaster by using the
+                                                        MA/HA/SA versions)
+Yo So Ken                 b, db, d + A in air         LA=3 ninja stars, MA=4
+                                                        ninja stars, HA=5 hits,
+                                                        SA=6 hits; a ninja star
+                                                        will be absorbed if it
+                                                        strikes a projectile
+
+
+Charge Supers
+-------------
+Mokko Bakudan             hcf + 2 attack buttons      teleports near opponent;
+                                                        overhead
+Air Mokko Bakudan         hcf + 2 attack button in    teleports near opponent;
+                            air                         overhead
+Cho Bakuen Rai            Charge d for 1.25 seconds,  absorbs projectiles 
+                            u + 2 attack buttons        including super 
+                                                        projectiles
+
+
+
+
+*******************************************************************************
+* 3.9 Abobo                                                                   *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Blue costume w/ Verdigris trim
+MA       - Dark Gray costume w/ Cadet Gray trim
+HA       - Gray costume w/ Amber trim
+SA       - Green costume w/ Laurel Green trim
+
+
+
+Throws
+------
+Overhead Toss             f/b + MA                    opponent ends up behind
+                                                        Abobo
+Crashing Punch            f/b + HA                    opponent ends up in front
+                                                        of Abobo
+Face Slam                 f/b + SA                    opponent ends up in front
+                                                        of Abobo
+Air Face Slam             f/b + SA in air             opponent ends up in front
+                                                        of Abobo
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Diagonal Jump Kick      HA
+  High Boot               SA                               
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Diagonal Punch          MA                          overhead
+  Diagonal Jump Kick      HA
+  High Boot               SA  
+Wild Swing                MA far
+  Second Wild Swing       MA
+Charging Wild Swing       SA far
+  Second Wild Swing       SA
+
+
+Command Moves
+-------------
+Back Sweep                d + SA                      must be blocked low
+Double Knee Drop          d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Hammer Blow               f, df, d + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage;
+                                                        overhead
+Hyper Bomb                qcf + A close               LA=1 slam and low damage,
+                                                        MA=2 slams and medium
+                                                        damage, HA=3 slams and
+                                                        high damage, SA=4 slams
+                                                        and very high damage
+Giant Swing               hcf/hcb + A close           LA=2 swings and low 
+                                                        damage, MA=3 swings and
+                                                        medium damage, HA=4
+                                                        swings and high damage,
+                                                        SA=5 swings and very
+                                                        high damage
+
+
+Charge Supers
+-------------
+Triple Jackhammer         f, df, d + 2 attack         absorbs projectiles
+                            buttons                     (including super
+                                                        projectiles); has full
+                                                        screen distance that
+                                                        must be blocked low
+Earthquake Bomb           hcf/hcb + 2 attack          unblockable
+                            buttons close
+
+
+
+
+*******************************************************************************
+* 3.10 Cheng-Fu                                                               *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Purple costume
+MA       - Blue costume 
+HA       - Green costume 
+SA       - Dark Gray costume
+
+
+
+Throw
+-----
+Sake Spit                 f/b + MA/HA/SA close        throw does no damage, it
+                                                        instead stuns the 
+                                                        opponent; the higher 
+                                                        the attack button used
+                                                        the longer the stun;
+                                                        cannot attempt a throw
+                                                        again if the opponent
+                                                        is in the stun state
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Diagonal Poke           LA
+  Double Poke             MA                          overhead
+  Split Kick              HA
+  Twirl Split Kick        SA                                
+Backward Hop              b, b                        
+  Diagonal Poke           LA
+  Double Poke             MA                          overhead
+  Split Kick              HA
+  Twirl Split Kick        SA    
+Leaning Elbow             LA close
+  Low Claw                LA
+Double Claw               MA close
+  Low Claw                MA
+Lean Back Kick            HA close
+  Backhand                HA
+Reverse Backhand          SA close
+  Side Kick               SA
+Tornado Roundhouse        SA far                      2 hits
+   
+
+Command Moves
+-------------
+Sweep                     d + HA                      must be blocked low
+Poke And Sweep            d + SA                      second part must be 
+                                                        blocked low
+Rolling Elbow Drop        d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Suiko Retsu Ken           qcf + A                     LA=short with 3 pokes,
+                                                        MA=medium with 4 pokes,
+                                                        HA=far with 5 pokes,
+                                                        SA=very far with 6 
+                                                        pokes
+Ko Ryu Kyaku              f, d, df + A                LA=short and low damage,
+                                                        MA=medium and medium
+                                                        damage, HA=far and high
+                                                        damage, SA=very far and
+                                                        very high damage; 
+                                                        second part is an 
+                                                        overhead
+Hi Sho Kyaku              qcb + A                     LA=medium and low damage,
+                                                        MA=far and medium 
+                                                        damage, HA=very far and
+                                                        high damage, 
+                                                        SA=farthest and very 
+                                                        high damage
+Counter Toss              b, d, db + A                note that this motion is
+                                                        very tight (you must
+                                                        end the motion directly
+                                                        on the db direction or
+                                                        else you will end up
+                                                        performing the Hi Sho
+                                                        Kyaku by mistake); when
+                                                        Cheng's hands are out
+                                                        he will counter 
+                                                        physical attacks with a
+                                                        throw; LA=short toss
+                                                        and low damage, 
+                                                        MA=medium toss and 
+                                                        medium damage, HA=far
+                                                        toss and high damage,
+                                                        SA=very far toss and
+                                                        very high damage
+
+
+Charge Supers
+-------------
+Cho Suiko Retsu Ken       qcf + 2 attack buttons      
+Cho Ko Ryu Kyaku          f, d, df + 2 attack         dash in must connect (not
+                            buttons                     blocked) to perform the
+                                                        entire maneuver; 
+                                                        invulnerable during 
+                                                        dash in
+
+
+-------------------------------------------------------------------------------
+
+
+*******************************************************************************
+* 3.11 Duke                                                                   *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Orange costume w/ Steel Blue armor
+MA       - Gold costume w/ Purple armor
+HA       - Teal costume w/ Gray armor
+SA       - Blue costume w/ Metallic Gold armor
+
+
+
+Throw
+-----
+Blast Fist                f/b + MA/HA/SA close        MA=medium distance,
+                                                        HA=far distance, 
+                                                        SA=very far distance;
+                                                        the stronger the button
+                                                        press the more damage 
+                                                        the throw does; 
+                                                        opponent ends up in
+                                                        front of Duke
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Weak Jump Kick          LA
+  Medium Jump Kick        MA                          
+  Heavy Jump Kick         HA
+  Wheel Kick              SA                          2 hits; overhead 
+Backward Hop              b, b                        
+  Weak Jump Kick          LA
+  Medium Jump Kick        MA                          
+  Heavy Jump Kick         HA
+  Wheel Kick              SA                          2 hits; overhead
+Energy Kicks              HA close                    2 hits
+Energy Palm               HA far
+  Energy Punch            HA
+Triple Kick               SA close                    3 hits
+Wheel Kick                SA far                      2 hits, overhead
+
+    
+Command Moves
+-------------
+Weak Crouch Kick          d + LA                      must be blocked low
+Strong Crouch Kick        d + MA                      must be blocked low
+Sliding Energy Kick       d + HA                      must be blocked low
+Backward Wheel Kick       d + SA
+Diving Knee               d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Moko Resshoda             qcf + A
+Sho So Kyaku              f, d, df + A                invulnerable during
+                                                        maneuver
+Cho Geki Hasho            Charge b for 1.25 seconds,  LA/MA=teleports in front
+                            f + A                       of opponent to punch, 
+                                                        HA/SA=teleports behind
+                                                        opponent to punch; 
+                                                        invulnerable during
+                                                        teleport
+Ko Soran Shobu            Charge d for 1.25 seconds,  jumps near and above
+                            u + A                       opponent; overhead
+Hi So Kyaku               b, db, d + A in air         overhead
+
+
+Charge Supers
+-------------
+Moko Ressho Geki Enha     qcf + 2 attack buttons      absorbs projectiles
+                                                        (includes super
+                                                        projectiles)
+Hooh Tensho Kyaku         f, d, df + 2 attack         invulnerable during
+                            buttons                     maneuver
+Hooh Chizan Kyaku         b, db, d + 2 attack         invulnerable during
+                            buttons                     maneuver
+
+
+
+
+*******************************************************************************
+* 3.12 Kugo Shuko                                                             *
+*******************************************************************************
+Colors        
+------ 
+LA/Start - Purple costume w/ Metallic Gold
+MA       - Blue costume w/ Metallic Gold
+HA       - Red costume w/ Blue trim
+SA       - Green costume w/ Gray trim
+
+
+
+Throw
+-----
+Force Push                f/b + MA/HA close           MA=medium distance,
+                                                        HA=far distance; HA
+                                                        version deals slightly
+                                                        more damage; opponent 
+                                                        ends up in front of 
+                                                        Shuko
+High Toss                 f/b + SA close              opponent ends up behind
+                                                        Shuko; can juggle
+                                                        opponent after toss
+
+
+Basic Moves
+-----------
+Double Jump               ub/u/uf after initial 
+                            jump 
+Forward Hop               f, f 
+  Flying Knee             LA
+  Weak Jump Kick          MA 
+  Heavy Jump Kick         HA                         
+  Energy Heel Kick        SA                          overhead      
+Backward Hop              b, b                        
+  Flying Knee             LA
+  Weak Jump Kick          MA 
+  Heavy Jump Kick         HA                         
+  Energy Heel Kick        SA                          overhead 
+Forward Palm              HA
+Energy Heel Kick          SA far                      overhead
+
+
+Command Moves
+-------------
+Weak Foot Tap             d + LA                      must be blocked low
+Strong Foot Tap           d + MA                      must be blocked low
+Sweep                     d + SA                      must be blocked low
+Double Foot Stomp         d + A when opponent is      pursue attack
+                            on the ground dizzy
+
+
+Special Moves
+-------------
+Suzaku                    qcf + A                     LA=very slow and very low
+                                                        damage, MA=slow and low
+                                                        damage, HA=medium and
+                                                        medium damage, SA=fast
+                                                        and high damage; this
+                                                        is a homing projectile;
+                                                        when projectile is in
+                                                        Shuko's hands it will
+                                                        absorb other 
+                                                        projectiles; fireball
+                                                        will collide with other
+                                                        projectiles as both 
+                                                        will be "destroyed" in
+                                                        the process    
+Suiryu                    f, d, df + A                LA/MA=1 bolt, HA/SA=2 
+                                                        bolts; hand swat is an
+                                                        overhead
+Genbu                     f, df, d + A                LA=very slow and very low
+                                                        damage, MA=slow and low
+                                                        damage, HA=medium and
+                                                        medium damage, SA=fast
+                                                        and high damage; goes
+                                                        under the other 
+                                                        projectiles in the 
+                                                        game, but will collide
+                                                        with another Genbu as
+                                                        both will be 
+                                                        "destroyed" in the 
+                                                        process; hand swat is 
+                                                        an overhead
+Kasumi                    b, f + A / Charge b,        LA=short, MA=medium, 
+                            f + A                       HA=far, SA=very far;
+                                                        can teleport past
+                                                        opponent; invulnerable
+                                                        during teleport
+Hooh                      b, db, d + A in air         A=very slow and very low
+                                                        damage, MA=slow and low
+                                                        damage, HA=medium and
+                                                        medium damage, SA=fast
+                                                        and high damage; will 
+                                                        collide with other
+                                                        projectiles as both 
+                                                        will be "destroyed" in
+                                                        the process
+Byakko                    d, u + A / Charge d,        teleports near and above
+                            u + A                       opponent; overhead
+Air Byakko                d, u + A in air / Charge    teleports near and above
+                            d, u + A in air             opponent; overhead
+
+
+Charge Supers
+-------------
+Kirin                     f, d, df + 2 attack         teleport dash in must
+                            buttons                     connect (not blocked)
+                                                        to perform the entire
+                                                        super; must be blocked
+                                                        low; invulnerable 
+                                                        during teleport
+Ge Kirin                  f, df, d + 2 attack         will absorb projectiles
+                            buttons                     and negate with super
+                                                        projectiles; hand swat
+                                                        is an overhead
+
+
+
+
+===============================================================================
+4. Conclusion
+===============================================================================
+
+4.1  What's Missing/Needed
+-Corrections and clean up
+-If you have anything to add, any corrections I need to make, please email me
+at billy_kane_32@hotmail.com.  Credit will be given for your contribution.
+
+4.2  Credits
+-Technos
+-SNK
+-Gamefaqs
+-And me for writing this faq

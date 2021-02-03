@@ -1,0 +1,1090 @@
+                                  --=+=--
+                                D O U B L E
+                                D R A G O N
+                                  --=+=--
+                                      
+                      FAQ version 2.1, 2nd August 1995
+                                      
+                      Copyright (c) 1995, Mark O'Neill
+                                      
+                                      
+             This Document may be freely copied or distributed,
+          provided proper credit is given to it's author (myself).
+                                      
+
+Version history:    v1.0 - Initial version.
+                           All (Known) moves for characters covered.
+                           Bosses move details not done as yet.
+
+                    v2.0 - Info. on (known) Bosses' moves now detailed.
+                           More details on game features.
+                           Some characters moves corrected/updated.
+
+                    v2.1 - Minor updates/corrections throughout.
+                           Still no code to play as bosses (if it exists).
+
+
+Contents:
+               Introduction
+
+               Game Details
+                    General Move Info
+                    Buttons
+                    Basic Movement
+                    Colour Selection
+                    Music
+                    Home Version Details
+                         Intro Sequence
+                         Character Size
+                         Alternate Character Selection Screen Faces
+
+               Charge Indicator
+
+               Character Details
+                    Billy Lee
+                    Jimmy Lee
+                    Marian
+                    Abobo
+                    Burnov
+                    Eddie
+                    Amon
+                    Cheng Fu
+                    Dulton
+                    Rebecca
+                    Bosses:   Duke (sub-boss)
+                              Kugo Shuko (boss)
+
+               Credits/Thanks
+
+
+
+
+
+==============
+ INTRODUCTION 
+==============
+
+          I  thought  I would write this FAQ as I don't think there  is  one
+          currently  around,  and I think there should be for  such  a  cool
+          game!   Double Dragon is a (new [1995]) Neo Geo Beat 'em up  game,
+          available  in the arcades and on the home systems.   I myself  own
+          the  Neo  Geo  CD version,  therefore all moves  shown  have  been
+          discovered/confirmed by me.
+
+
+
+==============
+ GAME DETAILS 
+==============
+
+          There are so many things that players can do in this game with the
+          characters,  as well as the over-the-top special moves!   The game
+          features  screen zooming to many levels (like  Samurai  Showdown),
+          but if both characters keep moving further apart,  they can become
+          VERY  far apart.   Also,  (when far apart) characters can  have  2
+          Fireballs on the screen at once (do the first, then immediately do
+          the second one).   Backgrounds are also 'interactive',  in the way
+          that  characters  can be thrown/hit into objects or parts  of  the
+          backgrounds.    A  good  example  is  when  playing  against  Duke
+          (sub-boss).   Hitting him can sometimes send him into the  picture
+          of Shuko (boss), knocking it off the wall!
+
+          Usual beat 'em up round winning rules apply.   All moves shown are
+          for characters facing to the right.
+
+
+BUTTONS:-
+
+               A - weak attack
+               B - medium attack
+               C - strong attack
+               D - super strong attack
+
+          There  are  no  defined  kicks or punches in  this  game  for  the
+          buttons,  the  characters punch or kick when a button  is  pressed
+          depending upon the situation they are in.
+
+
+BASIC MOVEMENT:-
+
+              UB    U    UF   
+                O   O   O     
+                 \  |  /      
+            B  O--     --O  F 
+                 /  |  \      
+                O   O   O     
+              DB    D    DF   
+
+
+
+
+
+
+
+
+          Holds & Throws -
+
+               Holds or Throws can be done with  O--  or  --O  + B,  C or  D
+               button.  More details are shown in each characters section.
+
+               Characters  can  also  Air Throw,  using  the  above  method. 
+               Again, more details are shown in each characters section.
+
+               NOTE  -   Cheng Fu and Eddie CANNOT Air Throw.   Nor can  the
+                         bosses, Duke and Shuko.
+
+                                                      O       O       O
+          Double Jump    - Jump, whilst in the air;    \  or  |  or  /
+
+
+          In the Air     - Air Defense;      O--  whilst being attacked
+
+
+          On the Ground  - Back Dash;        O-- O--
+
+                           Forward Dash;     --O --O
+
+                           Downed Offensive;  |  + any button
+                                              O
+                                                   Do this after you have
+                                                   knocked down your
+                                                   opponent.  Your character
+                                                   will jump leaving a trail
+                                                   of shadows and attack the
+                                                   downed opponent.
+
+
+
+COLOUR SELECTION:-
+
+          4  colours  can be selected,  using either of the A,  B,  C  or  D
+          buttons  when selecting a character.   The A button is the  normal
+          colour.  B, C or D buttons are the alternative colours.  The START
+          button can also be used, which has the same result as pressing the
+          A button.
+
+          The CPU colour can also be selected in this way when selecting the
+          CPU opponent manually (home version).
+
+
+
+MUSIC:-
+
+          As  usual,  each stage has its own music (some are pretty  good!). 
+          However,  if  using Billy or Jimmy Lee,  when they  perform  their
+          'Dragon Transformation'  move,  the music will change to their own
+          special music for the remainder of that round,  whichever stage is
+          currently being played on or whichever character fighting against.
+
+
+
+
+
+
+
+
+
+HOME VERSION DETAILS:-
+
+
+NOTE  -   This section only applies to the Home versions of the game
+          (cartridge and CD formats).
+
+
+Intro Sequence;
+
+          There  seems  to  be  a different intro on  the  CD  Home  system. 
+          Usually,  the  arcade version shows the different  characters  and
+          their Special/Charge moves.   The CD version only shows Billy  and
+          Jimmy Lee fighting, showing their Special/Charge moves.
+
+
+Character Size;
+
+          The  game can be paused by pressing the SELECT button at any  time
+          during a round.  Whilst the game is paused, pressing A, B,  C or D
+          can  change  your  characters  size!   In  2  player  game,   both
+          characters can do this.  If playing the CPU,  pressing the buttons
+          on the unused pad will alter the CPU's character size.
+
+          Sizes are;     Button    Size
+
+                           A  -    Large - default
+                           B  -    Quite small
+                           C  -    Small
+                           D  -    VERY small (tiny)
+
+          Pressing the SELECT button will un-pause the game and let you play
+          the game with your characters at the chosen size.
+
+          When 'shrunk'  all moves are also shrunk!   The only things  which
+          are remain normal size are projectiles.  Also,  when Very Small or
+          Small  (C or D button used),  the characters hit reach is as  they
+          would  be  for their normal size, so even if the  characters  look
+          apart (not touching), throws, specials etc.  still connect.   This
+          all takes some getting used to, but is GREAT FUN!
+
+
+Alternate Character Selection Screen Faces;
+
+          I   did   this  by accident once.  I was  playing  around  in  the
+          options screen,  changing settings.  I then started a game and the
+          Character  Selection Screen's characters faces had all changed  to
+          the  SNK  baby/cartoon versions.   I have never managed to  do  it
+          again, but will try to find out how it is done.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================
+ CHARGE INDICATOR 
+==================
+
+          Each  character's  Energy Bar is overlaid with another  bar  which
+          fills  up BLUE,  and is the Charge Level of your character.   This
+          goes  up  everytime  you execute a move which  connects  with  the
+          opponent (blocked or not).  Throws also increase the Charge level. 
+          When the Blue bar meets your current Energy level, the word CHARGE
+          replaces your character' name, and it will flash.   At this point,
+          extra  moves  are  available for your  character  (see  individual
+          character details).   Once used,  the Charge level will return  to
+          zero.
+
+          The  lower  your character's energy is, the quicker it is  to  get
+          your Charge Indicator flashing (when you attack the opponent).
+
+          To  use  the  Charge  Moves,  the  moves  available  are   usually 
+          performed the same as the normal special moves but using 2 buttons
+          instead  of  one  button (see each character's  Charge  Moves  for
+          details).  On the Home Neo Geo CD system, I find using the B and D
+          buttons together work well.
+
+
+
+===================
+ CHARACTER DETAILS 
+===================
+
+All moves shown are for characters facing to the right.
+
+When  (close) is specified next to a move,  the move must be  executed  when
+next/close to an opponent.
+
+'Charge' moves can only be executed when the character's CHARGE indicator is
+flashing.
+
+The statistics for each player are:-    POW - Power level
+                                        SPD - Speed level
+                                        DEF - Defensive level
+
+                                        All out of 5;  1 is lowest
+                                                       5 is highest
+
+Specific character details now follow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###############################  BILLY LEE  ################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Los Angeles                     POW:  3
+Height         -  5' 9"                           SPD:  4
+Weight         -  154 lbs                         DEF:  2
+Fighting Style -  Sousetsuken
+Interests      -  Video Games, Cars
+
+---= Holds/Throws =----------------------------------------------------
+
+          B, C or D  - Shoulder Toss
+
+---= Air Throws =------------------------------------------------------
+
+          B, C or D  - Shoulder Toss
+
+---= Special Moves =---------------------------------------------------
+
+          Flaming Fist (So Syu Ga):     | \  -O   + button  
+                                        O  O                
+
+          Dragon Punch (Re Kku Ha):     -O | \    + button  
+                                           O  O             
+
+          Spinning Kick (Ryu Bi Sen):   |  / O-   + button
+                                        O O             (can also do
+                                                         in the air)
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Flaming Dragon Fist:    | \  -O   + 2 buttons
+                                        O  O
+
+     2).  Dragon Transformation:        ABCD  (all buttons together)
+
+               After this move, Billy becomes 'Super-powered', and will glow
+               all over.  During this state (which lasts for the remainder
+               of the round) the following moves can be done (extensions of
+               normal Special Moves) ;
+
+               Fireball:                | \  -O   + button  
+                                        O  O                
+
+               Flaming Dragon Punch:    -O | \    + button  (with Dragon!)
+                                           O  O             
+
+               Flaming Dragon Kick:     |  / O-  + button   
+                                        O O                 
+
+               Double Dragon:           O-  / | \  -O  + button
+                                           O  O  O
+
+          NOTE: Billy cannot do the 'Super Flaming Dragon Fist' move after
+                a Dragon Transformation.
+
+############################################################################
+
+
+
+
+###############################  JIMMY LEE  ################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Los Angeles                     POW:  4
+Height         -  5' 9"                           SPD:  3
+Weight         -  161 lbs                         DEF:  3
+Fighting Style -  Sousetsuken
+Interests      -  Training
+
+---= Holds/Throws =----------------------------------------------------
+
+          B/C/D     - Shoulder Toss
+
+---= Air Throws =------------------------------------------------------
+
+          B/C/D     - Shoulder Toss
+
+---= Special Moves =---------------------------------------------------
+
+          Flaming Fist (So Syu Ga):     | \  -O   + button  
+                                        O  O                
+
+          Dragon Punch (Re Kku Ha):     -O | \    + button  
+                                           O  O             
+
+          Spinning Kick (Ryu Bi Sen):   |  / O-   + button
+                                        O O             (can also do
+                                                         in the air)
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Multi Hit Dragon Punch:       -O | \    + 2 buttons
+                                           O  O
+
+     2).  Dragon Transformation:        ABCD  (all buttons together)
+
+               After this move, Jimmy becomes 'Super-powered', and will glow
+               all over.  During this state (which lasts for the remainder
+               of the round) the following moves can be done (extensions of
+               normal Special Moves) ;
+
+               Fireball:                | \  -O   + button  
+                                        O  O                
+
+               Flaming Dragon Punch:    -O | \    + button  (with Dragon!)
+                                           O  O             
+
+               Flaming Dragon Kick:     |  / O-   + button  
+                                        O O                 
+
+               Double Dragon:           O-  / | \  -O  + button
+                                           O  O  O
+
+          NOTE: Jimmy cannot do the 'Multi Hit Dragon Punch' move after
+                a Dragon Transformation.
+
+############################################################################
+
+
+
+
+################################  MARIAN  ##################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Los Angeles                     POW:  1
+Height         -  5' 5"                           SPD:  5
+Size           -  B31 W21 H34                     DEF:  1
+Fighting Style -  Street Fighting
+Interests      -  Window Shopping, Figure Skating
+
+---= Holds/Throws =----------------------------------------------------
+
+          B/C       - Bulldog
+          D         - 4 hit punch/knee lift combo
+
+---= Air Throws =------------------------------------------------------
+
+          B/C       - Bulldog
+
+---= Special Moves =---------------------------------------------------
+
+          Accele Breaker:          Hold  | ,   O  + button  
+                                         O     |            
+
+          Moon Drive:              Hold  O- , -O  + button  
+
+          Throw 'n' Slam:          -O \  |  / O-  + button (close)    
+                                       O O O                          
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Accele Breaker:    Hold  | ,   O  + 2 buttons    
+                                         O     |                 
+
+     2).  Super Moon Drive:        Hold  O- , -O  + 2 buttons    
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################  ABOBO  ##################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  New York                        POW:  5
+Height         -  7' 2"                           SPD:  1
+Weight         -  336 lbs                         DEF:  5
+Fighting Style -  Street Fighting
+Interests      -  Body Building, Fighting
+
+---= Holds/Throws =----------------------------------------------------
+
+          B    - Throw
+          C    - Gut Punch
+          D    - Face Slam
+
+---= Air Throws =------------------------------------------------------
+
+          D    - Face Slam
+
+---= Special Moves =---------------------------------------------------
+
+          Hammer Punch:            -O \  |   + button  
+                                       O O             
+
+          Hyper Bomb:              | \  -O   + button  (close)   
+                                   O  O                          
+
+          Giant Swing:             -O \  |  / O-  + button  (close)   
+                                       O O O                          
+
+                            or     O-  / | \  -O  + button  (close)   
+                                      O  O  O                         
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Triple Hammer Punch:     -O \  |   + 2 buttons    
+                                       O O                  
+
+     2).  Grow 'n' Throw:          -O \  |  / O-  + 2 buttons (close) 
+                                       O O O                          
+
+                            or     O-  / | \  -O  + 2 buttons (close) 
+                                      O  O  O                         
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+################################  BURNOV  ##################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Detroit                         POW:  5
+Height         -  6' 3"                           SPD:  1
+Weight         -  495 lbs                         DEF:  4
+Fighting Style -  Wrestling
+Interests      -  Guitar, Cooking
+
+---= Holds/Throws =----------------------------------------------------
+
+          B    - Knee Drop
+          C    - Suplex
+          D    - Power Bomb
+
+---= Air Throws =------------------------------------------------------
+
+          D    - Power Bomb
+
+---= Special Moves =---------------------------------------------------
+
+          Nitro Slime:             | \  -O   + button  
+                                   O  O                
+
+          Cannon Ball:             Hold  O- , -O  + button  
+
+          Double Throw + Splash:   -O \  |  / O-  + button (close)    
+                                       O O O                          
+                                                       (If B button used,
+                                                        Double Throw only)
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Nitro Slime:       | \ -O    + 2 buttons    
+                                   O  O                     
+
+     2).  Super Cannon Ball:       Hold  O- , -O  + 2 buttons    
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################  EDDIE  ##################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Venezuala                       POW:  4
+Height         -  6' 5"                           SPD:  2
+Weight         -  209 lbs                         DEF:  3
+Fighting Style -  Kick Boxing
+Interests      -  Training, Improving Himself
+
+---= Holds/Throws =----------------------------------------------------
+
+          B    - Knee Lift
+          C    - 3 Punch Combo
+          D    - 4 Punch Combo
+
+---= Air Throws =------------------------------------------------------
+
+          *none*
+
+---= Special Moves =---------------------------------------------------
+
+          Leg Slash:               Hold  O- , -O  + button  
+
+          Sky Leg Slash:           Hold  | ,   O  + button  
+                                         O     |            
+
+          Dragon Knee:             -O | \    + button       
+                                      O  O                  
+
+---= C    harge Moves =----------------------------------------------------
+
+     1).  Rising Flames:           Hold  | ,   O  + 2 buttons    
+                                         O     |                 
+
+     2).  Super Dragon Knee Combo: -O | \    + 2 buttons    
+                                      O  O                  
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#################################  AMON  ###################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  probably Japan                  POW:  2
+Height         -  approx. 5' 11"                  SPD:  4
+Weight         -  approx. 154 lbs                 DEF:  2
+Fighting Style -  Ryuganinpoh
+Interests      -  Disguises ?
+
+---= Holds/Throws =----------------------------------------------------
+
+          B    - Toss
+          C    - Cross 'n' Throw
+          D    - Slam 'n' Strike
+
+-         --= Air Throws =------------------------------------------------------
+
+          C    - Slam
+          D    - Slam 'n' Strike
+
+---= Special Moves =---------------------------------------------------
+
+          Shuriken Spray:          Jump, O- / |   + button  
+          (Yo So Ken)                      O  O             
+
+                                             (The button used depends
+                                              upon how many Shurikens are
+                                              sent out.  A - 3 shurikens
+                                                         B - 4 shurikens
+                                                         C - 5 shurikens
+                                                         D - 6 shurikens
+
+
+          Ninja Bomb:              Hold  | ,   O  + button  
+          (Rekka Bakuenheki)             O     |            
+
+                                             (The button used depends
+                                              upon how many blasts are
+                                              sent out.  A - 1 explosion
+                                                         B - 2 explosions
+                                                         C - 3 explosions
+                                                         D - 4 explosions
+
+
+          Ninja Strike:            Hold  O- , -O  + button  
+          (Shi Ho Ken)
+                                   (Pressing any button during this move
+                                    will cause Amon to attack the opponent
+                                    from the other side [teleport])
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Ninja Bomb:        Hold  | ,   O  + 2 buttons    
+                                         O     |                 
+
+     2).  Super Teleport:          O-  / |   + 2 buttons         
+          Explosion                   O  O                       
+                                                  (Can also do
+                                                   in the air)
+
+############################################################################
+################################  CHENG FU  ################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Hong Kong                       POW:  3
+Height         -  5' 9"                           SPD:  3
+Weight         -  167 lbs                         DEF:  3
+Fighting Style -  Suihassenken
+Interests      -  Sake
+
+---= Holds/Throws =----------------------------------------------------
+
+          B/C/D     - Sake Spit
+
+          This causes opponent to be 'dazed' for a short while.
+          Follow up with;
+
+               B    - 2 Punch Combo
+               C    - Kick/Punch Combo
+               D    - Punch/Kick Combo
+
+---= Air Throws =------------------------------------------------------
+
+          *none*
+
+---= Special Moves =---------------------------------------------------
+
+          Dragon Kick:             -O | \    + button       
+          (Ko Ryu Kyaku)              O  O                  
+
+          Multi Punches:           | \  -O   + button       
+          (Suiko Retsudu)          O  O                     
+
+          Rising Kick:             |  / O-   + button       
+          (Hi Syo Kyaku)           O O                      
+
+          Anti-Special Throw:      ?
+                                   (I saw the CPU do this move on me.
+                                    It grabbed me out of a Spinning Kick
+                                    when I was Billy, and seemed to do a
+                                    different sort of throw/attack follow
+                                    up move).
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Dragon Kick:       -O | \    + 2 buttons    
+                                      O  O                  
+
+     2).  Shadow Multi Punches:    | \  -O   + 2 buttons    
+                                   O  O                     
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+#################################  DULTON  #################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Italy                           POW:  4
+Height         -  6' 2"                           SPD:  2
+Weight         -  213 lbs                         DEF:  5
+Fighting Style -  Street Fighting
+Interests      -  Arm Wrestling
+
+---= Holds/Throws =----------------------------------------------------
+
+          B    - 2 Punch Combo, Backfist
+          C    - 3 Punch Combo, Uppercut
+          D    - Slam + Ground Attack
+
+---= Air Throws =------------------------------------------------------
+
+          D    - Slam + Ground Attack
+
+---= Special Moves =---------------------------------------------------
+
+          Dalton Blaster:          | \  -O   + button  
+                                   O  O                
+                                             (The button used depends
+                                              upon how many Blasts are
+                                              sent out.  A - one blast
+                                                         B - two blasts
+                                                         C - three blasts
+                                                         D - four blasts)
+
+          Dalton Power Combo:      Button (repeatedly)
+
+          Dash 'n' Grab Combo:     Hold  O- , -O  + button  
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Dalton Blaster:    | \  -O   + 2 buttons    
+                                   O  O                     
+
+     2).  Super Flaming Combo:     2 Buttons (repeatedly)
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+################################  REBECCA  #################################
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Holland                         POW:  3
+Height         -  5' 8"                           SPD:  3
+Size           -  B35 W24 H36                     DEF:  1
+Fighting Style -  Tonfa
+Interests      -  Tea Ceremony, Japanese Dance
+
+---= Holds/Throws =----------------------------------------------------
+
+          B/C       - Leg Toss
+          D         - Trip 'n' Elbow
+
+---= Air Throws =------------------------------------------------------
+
+          B/C       - Leg Toss
+
+---= Special Moves =---------------------------------------------------
+
+          Dragon Punch:            -O | \    + button       
+          (Hi Cyo Zen)                O  O                  
+
+          Flaming Shot:            | \  -O   + button       
+          (Ko Jin Ken)             O  O                     
+
+          Aerial Flaming Shot:     Jump, O- / |   + button  
+          (Ko Jin Ken)                     O  O             
+
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Dragon Punch:           -O | \    + 2 buttons    
+                                           O  O                  
+
+     2).  Super Flaming Shot:           | \ -O    + 2 buttons    
+                                        O  O                     
+
+     3).  Super Aerial Flaming Shot:    Jump, O- / |   + 2 buttons    
+                                                O  O                  
+
+          NOTE: With both 2) and 3) Charge Moves, the Projectile can hit
+                ON THE WAY BACK, useful if it missed the first time!)
+
+############################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                 --------
+                                  BOSSES 
+                                 --------
+
+#################################  DUKE  ###################################
+                            * NOT SELECTABLE *  (?)
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  San Francisco                   POW:  4
+Height         -  6' 4"                           SPD:  5
+Weight         -  189 lbs                         DEF:  4
+Fighting Style -  Moukohisouken
+Interests      -  Origami
+
+---= Holds/Throws =----------------------------------------------------
+
+          - Catch 'n' Punch
+
+---= Air Throws =------------------------------------------------------
+
+          * none *
+
+---= Special Moves =---------------------------------------------------
+
+          Combo Punches       - Duke produces a combo of punches.
+
+          Air Punches         - Leaps in the air, catches you between his
+                                knees,  and then punches your head with
+                                both hands continuously.
+                                Can also catch you if you are in the air.
+
+          Flaming Dragon Fist - Similar to Billy Lee's Charge Move (but
+                                smaller is size).
+
+          Flash Knee Kick     - Similar to Eddie's Dragon Knee Kick.
+
+          Diving Knee Kick    - Dives from the air, Flash Knee Kick style.
+                                He looks like he is 'riding' a Pheonix.
+
+          Flash Wheel Kick    - Similar to Marian's Moon Drive, but he
+                                travels forward doing 1-2 somersaults.  Can
+                                also do in the air.
+
+          Sliding Foot Kick   - Foot Slide, his foot is a-flame.
+
+          Teleport Punch      - Teleports in a big flash, and punches you
+                                as he comes out of it, usually behind you.
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Super Flaming Multi Hit Dragon Knee:   'Rides' a Pheonix Flame,
+                                                 rising-Dragon Punch Style
+                                                 and hitting many times.
+
+     2).  Super Diving Flaming Dragon Knee:      Bigger version of his
+                                                 Diving Knee Kick move.
+
+     3).  Super Flaming Fist:                    Very Similar to Billy Lee's
+                                                 Super Flaming Dragon Fist
+                                                 Charge move.
+############################################################################
+##############################  KUGO SHUKO  ################################
+                            * NOT SELECTABLE *  (?)
+
+When playing him,  he doesn't do much in the way of Special Moves until  you
+beat him 1 round.
+
+---= Character data =--------------------------------------------------
+
+Birthplace     -  Los Angeles                     POW:  4
+Height         -  6' 1"                           SPD:  4
+Weight         -  189 lbs                         DEF:  4
+Fighting Style -  Kobujutsu and Ninpoh
+Interests      -  Chess, Shougi
+
+---= Holds/Throws =----------------------------------------------------
+
+          - Throw 'n Burn / Uppercut
+          - Catch 'n' Punch
+          - Big Toss
+
+---= Air Throws =------------------------------------------------------
+
+          *none*
+
+---= Special Moves =---------------------------------------------------
+
+          Air Teleport Foot Stomp  - Teleports and stomps on your head
+                                     repeatedly.
+
+          Air Teleport Foot Stomp  - Teleports and stomps on your head,
+          and Burn                   then sets you a-flame.
+
+          Spinning Flash Kick      - Looks similar to Jimmy Lee's Spinning
+                                     Kick.
+
+          Fireballs                - They are BIG, and will aim for you.
+
+          Ground Fireball          - A big dome of fire that hugs the ground
+                                     as it travels towards you.
+
+          Lightning Column         - Similar to Amon's Super Ninja Bomb.
+
+          Throw & Lightning Column - Throw you, then do the Lightning Column
+                                     move.
+
+---= Charge Moves =----------------------------------------------------
+
+     1).  Shadow Attack       - Turns invisible, and he 'becomes' his
+                                shadow, then proceeds to beat the crap out
+                                of you!
+
+     2).  Shadow Teleport     - Like the Air Teleport Foot Stomp, but worse!
+
+     3).  Super Shadow Attack - With Lightning Columns!
+
+############################################################################
+
+
+
+
+
+
+================
+ CREDITS/THANKS 
+================
+
+Author of this FAQ (ME!)...............................Mark O'Neill (*FLEA*)
+
+Special Thanx (& Honorary Mention).....................Gary Clinton (SMILER)
+                                             For playing the game with me
+                                             & finding some moves (albeit it
+                                             by accident!)
+
+SNK Corp. and Technos Japan Corp.......................Such a cool game!
+
+
+Any additional information, suggestions, (friendly) critism etc. would be
+gratefully accepted.  I can be E-Mailed at:-
+
+          CompuServe:    100125,2055    attn: Mark O'Neill
+
+          InterNet:      100125,2055@compuserve.com
+
+
+
+Post Sites for this FAQ;
+
+InterNet:
+          kaiwan.kaiwan.com
+          ftp.netcom.com
+          brawl.mindlink.net
+
+CompuServe:
+          Video Games Forum                  (Go VIDGAM)
+          Video Game Publishers Forum A+B    (Go VIDPUB)
+
+
+ENJOY!!!
