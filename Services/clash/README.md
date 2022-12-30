@@ -12,3 +12,4 @@
 
 ## 参考链接
 - https://www.cnblogs.com/pikpiksec/p/16078650.html
+- https://www.cnblogs.com/xuyaowen/p/clash-osx-win-linux.html

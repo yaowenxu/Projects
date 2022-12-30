@@ -7,6 +7,9 @@
 ## systemd 配置路径
 - /etc/systemd/system/
 
+## 参考链接
+- https://www.cnblogs.com/xuyaowen/p/glances-monitor.html
+
 ## glances 命令帮助
 
 ```BASH
