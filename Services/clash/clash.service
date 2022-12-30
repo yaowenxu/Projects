@@ -1,0 +1,14 @@
+# Create the systemd configuration file at /etc/systemd/system/clash.service
+# https://github.com/Dreamacro/clash/wiki/Running-Clash-as-a-service#systemd
+
+[Unit]
+Description=Clash daemon, A rule-based proxy in Go.
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/root/clash/clash-linux-amd64-v1.12.0 -d /root/clash -ext-ui /root/clash/clash-dashboard
+
+[Install]
+WantedBy=multi-user.target

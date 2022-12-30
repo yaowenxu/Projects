@@ -1,0 +1,11 @@
+[Unit]
+Description=Glances - yaowen.
+After=network.target
+
+[Service]
+Type=simple
+Restart=always
+ExecStart=/usr/bin/glances -p 8080 -u yaowen -w
+
+[Install]
+WantedBy=multi-user.target
